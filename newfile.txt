@@ -1,2 +1,2 @@
-echo "this new file "
+echo "this new file  for dev "
 mostafa check 
