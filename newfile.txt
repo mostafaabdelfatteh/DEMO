@@ -1,2 +1,2 @@
-echo "this new file "
+echo " new file "
 mostafa check 
